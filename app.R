@@ -7,7 +7,7 @@ library(ggplot2)
 # Import dog breed data
 dogs <- read_csv("dog_ratings.csv")
 
-# I removed some breeds with welfare concerns. Sorry. In some cases they are alright, but for someone using
+# I removed some breeds with welfare concerns. In some cases they are alright, but for someone using
 # a dog breed selector, they most likely won't know enough to actually locate and buy one of these dogs responsibly.
 # However, I left in some breeds that have welfare concerns and are commonly found in shelters because
 # I don't want to discourage their adoption, i.e. English Bulldog.
@@ -223,5 +223,8 @@ output$match_table <- renderTable({matched_dogs() %>%
   `Grooming ease` = groom_easiness,
   `Kid-friendliness` = kid_friendly,
   `General health` = general_health)})}
+
+p("These recommendations are based on general breed characteristics and aren't guarantees about individual dogs. Consider adoption
+from shelters or rescues, research breed-specific health concerns, and choose responsible breeders if buying a puppy!")
 
 shinyApp(ui = ui, server = server)
