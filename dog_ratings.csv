@@ -1,0 +1,217 @@
+name,href,group,min_weight,max_weight,min_lifespan,max_lifespan,apartment_living,novice_owner,sensitivity,being_alone,cold_weather,hot_weather,family_affection,kid_friendly,dog_friendly,stranger_friendly,shedding,drooling,groom_easiness,general_health,weight_gain,size,training_easiness,intelligence,mouthiness,prey_drive,bark,wanderlust,energy,intensity,exercise_need,playfulness,min_height,max_height
+Bolognese,https://dogtime.com/dog-breeds/bolognese,Companion Dogs,8,14,12,14,5,3,5,2,2,3,5,5,5,5,1,1,1,5,3,1,5,4,4,5,4,1,3,3,4,3,9,12
+Black Mouth Cur,https://dogtime.com/dog-breeds/black-mouth-cur,Working Dogs,40,95,12,18,1,2,4,2,3,3,5,5,3,3,3,2,5,4,2,4,3,4,3,5,4,4,4,3,5,4,16,25
+Black Russian Terrier,https://dogtime.com/dog-breeds/black-russian-terrier,Working Dogs,80,140,10,11,3,2,4,1,4,3,5,5,2,3,2,3,2,3,3,5,4,4,4,3,3,3,4,5,4,5,26,30
+Black and Tan Coonhound,https://dogtime.com/dog-breeds/black-and-tan-coonhound,Hound Dogs,75,100,10,12,1,2,3,2,4,4,5,5,5,5,5,3,4,5,5,3,2,5,1,5,5,5,5,5,5,5,23,27
+Bloodhound,https://dogtime.com/dog-breeds/bloodhound,Hound Dogs,80,110,11,15,1,2,4,2,3,3,5,5,5,5,4,5,1,3,3,4,3,4,5,3,4,5,5,4,5,3,23,27
+Bracco Italiano,https://dogtime.com/dog-breeds/bracco-italiano,Sporting Dogs,33,88,12,13,1,2,4,3,3,3,5,3,5,3,3,3,5,2,3,4,3,4,3,5,2,3,4,4,5,3,21,26
+Blue Lacy,https://dogtime.com/dog-breeds/blue-lacy,Working Dogs,25,50,12,16,1,1,4,2,4,5,4,3,2,2,3,2,5,4,2,3,5,5,4,5,5,4,5,5,5,4,17,25
+Boston Terrier,https://dogtime.com/dog-breeds/boston-terrier,Companion Dogs,10,25,13,15,5,4,5,3,3,2,4,5,5,4,2,1,5,4,3,2,4,4,2,2,3,5,4,5,4,5,12,15
+Bull Terrier,https://dogtime.com/dog-breeds/bull-terrier,Terrier Dogs,35,75,10,15,4,4,5,2,1,4,5,5,4,5,3,1,5,4,5,2,5,4,4,4,1,5,4,5,5,5,21,22
+Bouvier des Flandres,https://dogtime.com/dog-breeds/bouvier-des-flandres,Herding Dogs,70,100,10,12,3,2,4,2,4,2,5,5,2,2,1,1,2,3,4,4,5,4,2,2,4,2,4,5,4,4,23,28
+Boerboel,https://dogtime.com/dog-breeds/boerboel,Working Dogs,110,200,10,12,1,1,3,2,3,4,4,4,2,2,3,4,4,4,3,5,2,4,3,3,3,4,3,4,4,4,22,28
+Borzoi,https://dogtime.com/dog-breeds/borzoi,Hound Dogs,55,105,10,12,5,3,5,1,4,3,4,3,4,4,5,1,4,4,2,5,3,4,3,5,2,4,2,2,2,3,26,32
+Cane Corso,https://dogtime.com/dog-breeds/cane-corso,Working Dogs,90,120,10,12,1,1,3,1,3,4,4,2,3,2,3,4,5,3,4,4,4,5,2,5,3,2,4,3,5,2,23,27
+Boykin Spaniel,https://dogtime.com/dog-breeds/boykin-spaniel,Sporting Dogs,25,40,10,12,1,3,4,3,3,4,5,5,4,3,4,1,1,2,4,3,4,4,4,2,3,4,5,5,5,4,14,18
+Brittany,https://dogtime.com/dog-breeds/brittany,Sporting Dogs,30,40,10,13,1,3,5,1,4,3,5,5,5,4,3,5,3,4,3,3,3,5,3,5,3,4,5,3,5,5,17,20
+Brussels Griffon,https://dogtime.com/dog-breeds/brussels-griffon,Companion Dogs,7,12,12,15,5,2,5,1,1,2,5,4,4,3,3,3,3,3,3,1,3,4,3,1,4,5,5,3,4,5,7,8
+Cairn Terrier,https://dogtime.com/dog-breeds/cairn-terrier,Terrier Dogs,13,14,12,15,5,4,3,1,4,4,5,5,4,4,3,1,5,4,3,1,2,5,3,4,4,3,5,4,4,5,9,10
+Border Collie,https://dogtime.com/dog-breeds/border-collie,Herding Dogs,30,45,12,15,2,2,5,1,4,4,5,4,3,5,3,1,3,2,3,3,5,5,3,3,2,3,5,3,5,5,18,22
+Canaan Dog,https://dogtime.com/dog-breeds/canaan-dog,Herding Dogs,35,55,12,15,4,4,4,3,3,5,4,2,3,2,4,1,5,5,2,3,5,4,3,3,3,2,4,3,3,4,19,24
+Border Terrier,https://dogtime.com/dog-breeds/border-terrier,Terrier Dogs,11,15,12,15,4,3,3,1,4,3,5,4,2,5,3,1,2,4,5,2,3,5,5,5,1,4,4,4,5,5,10,11
+Dogo Argentino,https://dogtime.com/dog-breeds/dogo-argentino,Sporting Dogs,80,100,9,15,1,1,3,2,2,4,4,2,2,2,1,3,4,3,2,4,2,3,2,5,2,4,4,4,4,3,23,27
+Cavalier King Charles Spaniel,https://dogtime.com/dog-breeds/cavalier-king-charles-spaniel,Companion Dogs,13,18,9,15,5,5,5,1,3,2,5,5,5,5,3,1,4,4,4,2,4,4,3,3,3,2,3,2,4,5,12,13
+Affenpinscher,https://dogtime.com/dog-breeds/affenpinscher,Companion Dogs,7,9,12,14,5,4,3,1,3,3,5,1,4,3,1,1,3,4,3,1,2,4,4,3,2,2,4,3,3,4,9,11
+Bulldog,https://dogtime.com/dog-breeds/bulldog,Companion Dogs,40,50,8,12,5,4,4,3,1,1,5,4,2,5,3,5,5,4,5,2,3,2,2,2,4,1,2,3,3,4,12,15
+Dogue de Bordeaux,https://dogtime.com/dog-breeds/dogue-de-bordeaux,Working Dogs,100,,8,12,5,1,4,2,3,2,5,5,1,1,3,5,5,2,4,4,2,3,4,4,2,1,2,2,5,3,23,27
+Chow Chow,https://dogtime.com/dog-breeds/chow-chow,Working Dogs,40,70,12,15,3,2,2,5,5,2,2,1,1,1,1,3,1,2,4,4,2,1,5,2,1,2,2,2,2,1,17,20
+Entlebucher Mountain Dog,https://dogtime.com/dog-breeds/entlebucher-mountain-dog,Herding Dogs,45,65,10,13,1,2,4,3,4,2,5,5,3,2,3,1,5,3,3,3,3,4,4,4,5,3,5,4,5,5,16,20
+Boxer,https://dogtime.com/dog-breeds/boxer,Working Dogs,60,70,10,12,4,3,4,1,2,1,5,4,3,4,4,2,5,2,4,3,4,4,2,3,3,3,5,5,5,5,21,25
+Cardigan Welsh Corgi,https://dogtime.com/dog-breeds/cardigan-welsh-corgi,Herding Dogs,25,38,12,15,4,4,4,3,4,3,5,4,3,3,4,1,3,4,4,2,4,5,2,4,2,3,3,3,3,4,10,12
+Catahoula Leopard Dog,https://dogtime.com/dog-breeds/catahoula-leopard-dog,Herding Dogs,50,90,10,14,1,1,2,2,3,3,5,3,1,1,3,1,5,3,3,4,2,3,3,1,3,3,4,3,5,2,20,26
+Giant Schnauzer,https://dogtime.com/dog-breeds/giant-schnauzer,Working Dogs,55,80,10,12,1,1,4,2,4,2,5,3,3,2,4,1,2,4,3,4,5,4,3,4,4,4,5,2,5,5,23,27
+American Bulldog,https://dogtime.com/dog-breeds/american-bulldog,Working Dogs,60,120,10,16,1,1,4,1,2,2,5,4,2,2,1,4,4,3,2,4,4,3,2,4,2,3,4,4,4,4,20,28
+Golden Retriever,https://dogtime.com/dog-breeds/golden-retriever,Sporting Dogs,55,75,10,12,2,3,5,1,3,3,5,5,5,5,5,4,2,2,5,3,5,5,5,3,3,2,5,2,5,5,21,24
+English Cocker Spaniel,https://dogtime.com/dog-breeds/english-cocker-spaniel,Sporting Dogs,26,34,12,14,5,4,5,1,4,3,5,5,5,5,3,1,3,4,5,2,4,5,3,5,4,4,5,3,4,5,15,17
+Chihuahua,https://dogtime.com/dog-breeds/chihuahua,Companion Dogs,3,6,10,18,5,4,5,1,1,2,5,5,2,2,2,1,5,2,3,1,4,4,3,3,3,2,3,2,1,4,6,9
+Glen of Imaal Terrier,https://dogtime.com/dog-breeds/glen-of-imaal-terrier,Terrier Dogs,,35,12,15,4,2,3,3,3,4,5,5,2,3,1,1,5,5,3,1,4,4,3,5,4,3,4,5,4,4,12,14
+Clumber Spaniel,https://dogtime.com/dog-breeds/clumber-spaniel,Sporting Dogs,55,85,12,12,5,5,4,2,5,2,5,3,4,3,5,5,1,2,5,3,4,3,5,5,1,4,3,1,2,5,17,20
+Finnish Spitz,https://dogtime.com/dog-breeds/finnish-spitz,Sporting Dogs,20,35,12,15,3,3,3,1,5,3,5,5,5,3,4,1,2,4,3,3,3,4,3,3,5,4,5,4,5,5,15,20
+Afghan Hound,https://dogtime.com/dog-breeds/afghan-hound,Hound Dogs,50,60,10,12,5,3,5,2,5,5,5,5,4,2,4,1,1,3,1,4,1,4,3,5,2,5,5,2,4,4,24,28
+German Shepherd Dog,https://dogtime.com/dog-breeds/german-shepherd-dog,Herding Dogs,75,95,10,14,3,2,5,2,4,3,5,5,2,4,5,1,5,4,2,4,5,5,5,4,4,2,5,5,5,5,22,26
+Shiba Inu,https://dogtime.com/dog-breeds/shiba-inu,Companion Dogs,17,23,12,16,5,4,3,5,4,3,4,3,3,3,4,1,4,3,2,2,2,4,4,3,4,4,4,2,3,3,13,17
+Dachshund,https://dogtime.com/dog-breeds/dachshund,Hound Dogs,16,32,12,15,5,4,4,3,1,3,4,5,3,1,3,1,3,2,5,1,2,4,4,5,5,5,3,3,3,4,8,9
+Flat-Coated Retriever,https://dogtime.com/dog-breeds/flat-coated-retriever,Sporting Dogs,55,70,10,12,1,2,5,1,4,4,5,5,5,5,3,2,4,4,4,3,4,5,3,3,4,4,5,4,5,5,22,24
+Alaskan Klee Kai,https://dogtime.com/dog-breeds/alaskan-klee-kai,Companion Dogs,10,15,12,16,3,2,4,2,5,2,4,3,2,2,4,2,4,4,2,2,4,4,2,5,3,4,4,2,4,4,13,17
+Bluetick Coonhound,https://dogtime.com/dog-breeds/bluetick-coonhound,Hound Dogs,45,100,10,12,2,2,5,2,3,3,5,5,3,3,2,2,5,4,3,3,2,4,3,4,4,5,5,4,5,5,23,30
+Cocker Spaniel,https://dogtime.com/dog-breeds/cocker-spaniel,Sporting Dogs,24,28,12,15,5,3,5,1,4,3,5,3,4,3,3,1,1,4,4,2,5,4,4,5,3,4,4,2,3,4,14,15
+English Foxhound,https://dogtime.com/dog-breeds/english-foxhound,Hound Dogs,55,75,10,13,1,2,3,4,3,3,4,4,5,3,3,1,5,4,2,3,3,3,4,5,4,5,5,4,5,5,25,27
+English Setter,https://dogtime.com/dog-breeds/english-setter,Sporting Dogs,45,80,11,15,1,3,4,1,4,3,5,5,5,5,3,2,3,3,5,3,3,5,4,5,4,5,4,2,5,5,23,27
+German Wirehaired Pointer,https://dogtime.com/dog-breeds/german-wirehaired-pointer,Sporting Dogs,60,70,12,14,2,3,4,2,3,4,5,3,3,2,2,2,4,4,3,4,4,5,4,4,3,5,5,4,5,5,22,26
+Chesapeake Bay Retriever,https://dogtime.com/dog-breeds/chesapeake-bay-retriever,Sporting Dogs,55,80,10,12,1,1,3,2,4,4,5,3,1,1,5,3,5,4,4,3,3,4,3,3,3,4,5,5,5,4,21,26
+English Springer Spaniel,https://dogtime.com/dog-breeds/english-springer-spaniel,Sporting Dogs,45,55,9,15,1,3,4,1,3,4,5,5,5,4,3,1,2,3,3,3,5,5,3,5,3,4,5,3,5,5,18,22
+Finnish Lapphund,https://dogtime.com/dog-breeds/finnish-lapphund,Herding Dogs,33,53,12,15,4,4,4,2,5,2,5,5,5,4,3,1,4,4,4,3,5,5,4,4,3,4,5,5,4,5,17,20
+Field Spaniel,https://dogtime.com/dog-breeds/field-spaniel,Sporting Dogs,37,45,10,12,1,3,4,1,3,4,5,5,4,4,3,1,4,3,4,2,5,5,3,4,2,5,5,3,5,5,16,19
+Bullmastiff,https://dogtime.com/dog-breeds/bullmastiff,Working Dogs,100,130,8,10,3,2,4,2,4,2,5,5,4,3,1,5,5,2,5,5,3,3,3,3,4,3,2,4,3,5,24,27
+Caucasian Shepherd Dog,https://dogtime.com/dog-breeds/caucasian-shepherd-dog,Working Dogs,80,220,10,12,2,1,2,3,5,2,4,2,2,2,4,4,2,3,4,5,2,4,4,3,3,2,2,4,2,3,24,34
+Shih Tzu,https://dogtime.com/dog-breeds/shih-tzu,Companion Dogs,9,16,10,16,5,5,3,3,3,1,5,4,4,5,3,1,1,3,4,1,3,4,4,4,2,2,2,3,2,4,9,10
+Chinese Shar-Pei,https://dogtime.com/dog-breeds/chinese-shar-pei,Working Dogs,40,55,8,12,4,2,2,4,2,1,2,2,1,2,5,2,5,1,4,3,3,2,5,2,5,2,2,1,3,1,18,20
+Cesky Terrier,https://dogtime.com/dog-breeds/cesky-terrier,Terrier Dogs,13,30,10,15,5,4,4,3,3,3,5,3,2,3,1,1,4,5,4,2,4,3,3,2,3,3,2,3,3,5,10,13
+Pomeranian,https://dogtime.com/dog-breeds/pomeranian,Companion Dogs,3,7,12,16,4,4,4,1,4,2,5,2,2,3,4,1,2,3,4,1,4,4,2,2,5,1,3,2,2,3,7,12
+Shetland Sheepdog,https://dogtime.com/dog-breeds/shetland-sheepdog,Herding Dogs,20,,12,15,2,3,5,2,4,3,5,5,4,5,5,1,2,4,3,1,5,5,1,3,1,2,4,2,4,4,13,16
+American English Coonhound,https://dogtime.com/dog-breeds/american-english-coonhound,Hound Dogs,,,10,12,1,2,5,2,4,4,5,5,4,5,3,1,5,4,3,3,5,4,3,5,5,5,5,5,5,5,23,26
+Sussex Spaniel,https://dogtime.com/dog-breeds/sussex-spaniel,Sporting Dogs,35,45,11,14,5,5,5,1,5,5,5,5,5,5,3,1,4,4,5,2,3,5,2,1,4,1,2,1,2,4,13,15
+Skye Terrier,https://dogtime.com/dog-breeds/skye-terrier,Terrier Dogs,25,40,12,14,4,4,3,2,4,4,4,4,2,5,3,1,3,5,3,2,2,4,3,4,4,4,3,4,3,4,9,10
+Airedale Terrier,https://dogtime.com/dog-breeds/airedale-terrier,Terrier Dogs,40,65,10,13,1,2,3,2,3,3,4,4,4,3,2,1,2,3,4,3,4,5,5,5,4,4,5,3,5,5,21,23
+Jack Russell Terrier,https://dogtime.com/dog-breeds/jack-russell-terrier,Terrier Dogs,13,17,10,15,3,2,3,3,4,3,5,4,5,4,3,1,3,4,4,2,4,5,4,5,4,4,5,5,5,5,10,15
+Akita,https://dogtime.com/dog-breeds/akita,Working Dogs,70,130,10,12,2,2,5,1,5,2,5,1,1,2,5,5,1,4,4,4,2,3,3,4,5,4,4,3,4,5,24,28
+Sealyham Terrier,https://dogtime.com/dog-breeds/sealyham-terrier,Terrier Dogs,22,24,12,14,4,4,4,2,4,3,4,4,4,3,4,3,1,5,3,2,3,4,2,2,2,3,4,2,4,4,,10
+Standard Schnauzer,https://dogtime.com/dog-breeds/standard-schnauzer,Working Dogs,30,50,13,16,4,2,4,2,4,4,4,4,3,2,1,1,2,5,1,3,3,5,3,5,2,5,5,3,5,5,17,20
+Stabyhoun,https://dogtime.com/dog-breeds/stabyhoun,Sporting Dogs,45,50,13,14,2,3,4,3,2,2,5,5,4,3,3,1,3,5,3,3,5,5,1,4,3,3,3,4,4,5,19,20
+Pomsky,https://dogtime.com/dog-breeds/pomsky,Mixed Breed Dogs,7,38,12,15,5,2,4,1,5,3,5,2,3,3,4,1,2,3,3,2,3,4,3,4,5,2,4,2,3,4,10,15
+Staffordshire Bull Terrier,https://dogtime.com/dog-breeds/staffordshire-bull-terrier,Terrier Dogs,24,38,12,14,3,1,4,2,3,1,5,5,1,5,3,3,5,3,4,2,2,3,2,2,3,4,3,3,4,5,14,16
+Silken Windhound,https://dogtime.com/dog-breeds/silken-windhound,Hound Dogs,20,55,14,20,4,4,4,2,4,4,5,4,3,4,2,2,4,4,2,3,5,4,3,5,1,4,4,2,4,5,18,23
+Swedish Vallhund,https://dogtime.com/dog-breeds/swedish-vallhund,Herding Dogs,22,35,12,15,3,1,3,3,4,3,5,4,3,5,4,1,5,4,4,3,5,5,2,4,1,3,5,3,5,5,11,13
+Tibetan Mastiff,https://dogtime.com/dog-breeds/tibetan-mastiff,Working Dogs,75,160,10,14,1,1,5,1,5,2,5,5,5,2,2,2,4,3,4,5,1,5,5,3,2,3,4,2,2,5,24,26
+Basset Hound,https://dogtime.com/dog-breeds/basset-hound,Hound Dogs,50,65,10,12,5,4,4,3,2,2,5,5,5,5,4,4,5,1,5,2,2,4,3,5,4,5,2,2,2,2,,14
+Scottish Terrier,https://dogtime.com/dog-breeds/scottish-terrier,Terrier Dogs,18,22,11,13,4,2,4,3,4,3,5,4,4,4,2,1,2,4,3,2,1,4,3,3,4,5,4,4,4,4,,10
+Small Munsterlander Pointer,https://dogtime.com/dog-breeds/small-munsterlander-pointer,Sporting Dogs,40,60,12,14,1,2,3,4,5,3,5,5,5,4,3,1,3,5,3,3,5,5,3,5,3,4,4,5,5,4,19,22
+Basenji,https://dogtime.com/dog-breeds/basenji,Hound Dogs,22,24,10,12,5,4,3,4,1,4,5,5,4,5,1,5,5,2,2,2,1,4,5,5,1,5,5,1,5,2,16,17
+Soft Coated Wheaten Terrier,https://dogtime.com/dog-breeds/soft-coated-wheaten-terrier,Terrier Dogs,30,40,12,15,5,4,4,2,2,3,5,5,5,5,2,1,3,4,3,3,4,4,2,3,3,4,4,3,4,5,17,19
+Beagle,https://dogtime.com/dog-breeds/beagle,Hound Dogs,18,30,10,15,4,3,4,1,2,4,5,5,5,5,3,1,4,1,5,2,1,4,3,5,5,5,4,5,4,5,13,15
+Samoyed,https://dogtime.com/dog-breeds/samoyed,Working Dogs,50,60,12,14,2,2,4,2,5,1,5,5,5,5,5,2,1,3,4,3,3,3,3,5,3,4,5,2,5,5,19,24
+Silky Terrier,https://dogtime.com/dog-breeds/silky-terrier,Companion Dogs,8,10,12,15,5,3,3,3,1,4,4,3,2,3,2,1,4,4,3,1,4,4,2,5,4,3,4,4,3,4,9,10
+Sloughi,https://dogtime.com/dog-breeds/sloughi,Hound Dogs,40,63,12,16,4,2,4,3,2,3,5,5,4,3,3,1,5,3,2,4,3,4,3,5,2,3,5,3,5,3,24,29
+Rat Terrier,https://dogtime.com/dog-breeds/rat-terrier,Terrier Dogs,,,13,18,5,3,4,3,1,4,4,5,3,4,4,1,5,4,3,1,5,4,2,4,1,4,5,4,4,5,13,16
+Appenzeller Sennenhunde,https://dogtime.com/dog-breeds/appenzeller-sennenhunde,Herding Dogs,48,55,9,12,1,3,3,1,5,4,5,5,3,2,3,1,5,4,3,3,4,4,5,3,5,3,4,4,5,4,19,22
+Schipperke,https://dogtime.com/dog-breeds/schipperke,Companion Dogs,11,18,13,15,4,4,4,3,3,2,4,5,2,2,3,1,5,4,5,1,2,4,3,2,4,5,5,3,5,5,10,15
+Barbet,https://dogtime.com/dog-breeds/barbet,Sporting Dogs,37,62,13,15,3,2,3,1,4,4,5,4,4,3,2,1,1,4,3,3,4,4,2,3,3,3,5,3,3,4,20,25
+Australian Cattle Dog,https://dogtime.com/dog-breeds/australian-cattle-dog,Herding Dogs,30,50,12,15,2,1,4,3,4,4,5,3,4,2,3,1,4,5,4,3,5,5,5,4,2,4,5,5,5,5,17,20
+Curly-Coated Retriever,https://dogtime.com/dog-breeds/curly-coated-retriever,Sporting Dogs,65,100,9,12,1,3,3,3,4,4,5,5,4,3,3,2,3,2,3,3,4,5,5,5,3,4,5,3,4,5,23,27
+German Pinscher,https://dogtime.com/dog-breeds/german-pinscher,Working Dogs,25,45,12,14,3,3,4,3,3,4,5,3,2,2,3,1,5,4,3,3,4,5,3,5,3,4,5,3,5,5,17,20
+German Shorthaired Pointer,https://dogtime.com/dog-breeds/german-shorthaired-pointer,Sporting Dogs,45,70,12,15,1,2,4,1,2,4,5,5,4,3,2,2,5,3,3,3,5,5,4,5,3,5,5,3,5,5,21,25
+English Toy Spaniel,https://dogtime.com/dog-breeds/english-toy-spaniel,Companion Dogs,8,14,10,12,4,4,4,1,2,2,5,1,4,4,5,2,4,2,3,2,3,3,4,4,3,2,3,3,2,4,10,11
+American Foxhound,https://dogtime.com/dog-breeds/american-foxhound,Hound Dogs,40,60,12,13,1,2,2,1,4,4,4,5,5,4,3,1,5,5,5,3,2,3,3,4,5,5,5,4,5,5,21,25
+Doberman Pinscher,https://dogtime.com/dog-breeds/doberman-pinscher,Working Dogs,60,80,10,13,3,3,5,2,1,4,5,3,1,3,4,4,5,1,3,4,5,5,2,1,1,2,3,3,3,5,24,28
+Goldendoodle,https://dogtime.com/dog-breeds/goldendoodle,Hybrid Dogs,50,90,10,15,1,4,4,3,3,3,5,5,5,4,2,1,4,3,3,4,4,5,1,1,3,3,4,3,5,5,20,24
+Goldador,https://dogtime.com/dog-breeds/goldador,Hybrid Dogs,60,80,10,15,2,4,3,4,5,4,5,5,5,5,3,2,4,4,3,4,4,5,2,1,1,4,5,5,5,5,22,24
+Coton de Tulear,https://dogtime.com/dog-breeds/coton-de-tulear,Companion Dogs,8,13,14,,5,4,5,1,3,3,5,5,5,5,1,1,2,5,3,1,3,4,3,1,2,3,3,2,3,5,8,12
+Fox Terrier,https://dogtime.com/dog-breeds/fox-terrier,Terrier Dogs,15,19,10,15,3,3,3,3,3,4,4,4,3,3,2,1,2,4,2,2,5,5,3,5,3,3,5,5,5,5,,15
+French Bulldog,https://dogtime.com/dog-breeds/french-bulldog,Companion Dogs,16,28,11,14,5,5,3,1,2,1,5,4,4,4,3,1,5,2,4,2,4,3,3,2,3,2,3,4,2,5,11,12
+Dutch Shepherd,https://dogtime.com/dog-breeds/dutch-shepherd,Herding Dogs,50,70,12,15,3,3,3,2,4,4,4,4,4,2,4,2,3,4,2,3,5,4,2,3,2,2,4,3,4,4,21,25
+American Water Spaniel,https://dogtime.com/dog-breeds/american-water-spaniel,Sporting Dogs,25,45,12,15,2,2,5,1,2,4,5,5,2,3,3,1,3,3,3,3,4,3,5,2,3,5,5,2,5,5,15,18
+Azawakh,https://dogtime.com/dog-breeds/azawakh,Hound Dogs,33,55,12,15,5,2,3,3,1,5,4,2,3,2,3,1,5,3,3,3,3,3,3,4,1,2,3,2,4,3,23,29
+Australian Terrier,https://dogtime.com/dog-breeds/australian-terrier,Terrier Dogs,14,16,,15,5,3,2,2,3,4,4,3,2,3,1,1,5,5,3,1,3,4,1,5,5,4,5,5,4,5,10,11
+Chinese Crested,https://dogtime.com/dog-breeds/chinese-crested,Companion Dogs,,12,10,14,5,3,5,1,1,3,4,5,4,4,2,1,2,5,2,2,4,3,4,3,3,1,2,1,2,3,11,13
+Australian Shepherd,https://dogtime.com/dog-breeds/australian-shepherd,Herding Dogs,40,65,12,15,1,2,5,2,4,4,5,4,5,3,3,1,1,2,4,3,5,5,4,4,4,5,5,4,5,5,18,23
+Australian Kelpie,https://dogtime.com/dog-breeds/australian-kelpie,Herding Dogs,25,46,10,15,2,2,4,2,3,5,4,2,3,2,3,1,4,3,2,3,5,5,5,4,4,4,5,3,5,4,15,20
+Pocket Beagle,https://dogtime.com/dog-breeds/pocket-beagle,Hound Dogs,7,15,10,,4,3,4,2,2,4,5,5,5,4,3,1,5,3,5,2,3,4,4,3,5,5,4,4,4,4,7,12
+Briard,https://dogtime.com/dog-breeds/briard,Herding Dogs,70,100,10,12,3,3,4,3,4,3,4,5,5,2,1,1,1,3,3,4,4,4,2,3,4,5,4,4,4,4,22,27
+Greater Swiss Mountain Dog,https://dogtime.com/dog-breeds/greater-swiss-mountain-dog,Working Dogs,85,140,7,9,1,2,4,3,5,1,5,5,5,3,3,1,5,2,4,5,3,3,3,4,4,3,5,4,3,5,23,28
+Alaskan Malamute,https://dogtime.com/dog-breeds/alaskan-malamute,Working Dogs,75,100,12,15,1,1,4,1,5,2,4,3,2,5,5,1,1,4,3,4,4,4,3,4,5,5,5,5,5,5,23,25
+Greyhound,https://dogtime.com/dog-breeds/greyhound,Hound Dogs,50,85,12,15,4,2,5,1,1,5,5,5,4,5,4,5,5,4,5,4,5,5,4,5,2,5,5,3,5,4,25,30
+Chinook,https://dogtime.com/dog-breeds/chinook,Working Dogs,55,70,12,15,4,1,5,1,5,4,5,5,5,4,5,1,2,4,3,4,4,5,3,2,2,2,3,3,3,4,21,27
+American Pit Bull Terrier,https://dogtime.com/dog-breeds/american-pit-bull-terrier,Terrier Dogs,30,85,12,16,3,2,4,1,2,3,5,5,1,5,4,1,5,4,3,3,4,4,5,3,3,4,4,5,4,5,17,19
+American Staffordshire Terrier,https://dogtime.com/dog-breeds/american-staffordshire-terrier,Terrier Dogs,40,60,10,15,2,2,3,2,2,3,4,4,2,4,2,3,4,3,2,3,4,4,5,3,4,3,3,5,3,4,16,19
+Anatolian Shepherd Dog,https://dogtime.com/dog-breeds/anatolian-shepherd-dog,Working Dogs,80,150,11,13,1,2,4,3,5,3,3,2,2,1,2,3,4,3,3,5,4,4,2,2,2,4,3,3,3,3,27,29
+Puggle,https://dogtime.com/dog-breeds/puggle,Hybrid Dogs,18,30,10,15,4,5,3,3,3,3,3,5,5,5,3,1,5,4,5,2,2,3,3,2,4,5,3,2,3,3,13,15
+Saluki,https://dogtime.com/dog-breeds/saluki,Hound Dogs,35,70,12,14,1,2,5,1,2,3,5,4,4,1,2,1,4,4,1,4,4,4,4,5,1,5,5,2,5,5,23,28
+Irish Red and White Setter,https://dogtime.com/dog-breeds/irish-red-and-white-setter,Sporting Dogs,50,70,10,14,1,3,4,1,4,3,5,4,4,4,3,1,3,2,2,3,4,4,4,3,3,4,5,5,5,5,22,26
+Bichon Frise,https://dogtime.com/dog-breeds/bichon-frise,Companion Dogs,7,12,12,15,5,5,5,1,3,4,5,4,4,5,2,1,1,4,4,2,5,4,3,4,2,2,5,3,3,5,9,11
+Pyrenean Shepherd,https://dogtime.com/dog-breeds/pyrenean-shepherd,Herding Dogs,25,30,15,17,5,2,4,1,4,3,5,5,2,2,3,1,3,2,3,2,2,4,3,4,5,2,4,5,5,5,15,21
+Irish Terrier,https://dogtime.com/dog-breeds/irish-terrier,Terrier Dogs,25,27,12,16,3,2,3,2,4,4,5,5,1,3,4,1,2,5,3,3,1,4,1,2,4,3,5,4,4,5,18,20
+Havanese,https://dogtime.com/dog-breeds/havanese,Companion Dogs,7,13,12,15,5,5,4,1,3,4,5,4,5,5,2,1,1,3,4,2,5,4,3,4,2,2,3,2,3,5,8,11
+Bernedoodle,https://dogtime.com/dog-breeds/bernedoodle,Mixed Breed Dogs,,10,12,18,3,3,4,2,5,3,5,5,4,3,1,2,3,4,3,3,4,5,4,3,3,3,4,3,3,5,,10
+Bernese Mountain Dog,https://dogtime.com/dog-breeds/bernese-mountain-dog,Working Dogs,70,115,6,10,1,2,4,1,5,1,5,5,3,5,5,4,3,1,4,5,4,4,5,5,4,3,4,3,3,4,23,28
+Belgian Tervuren,https://dogtime.com/dog-breeds/belgian-tervuren,Herding Dogs,40,70,10,12,3,3,5,1,4,3,4,3,3,3,4,1,3,3,2,4,5,5,2,2,5,4,5,3,4,5,21,26
+Berger Picard,https://dogtime.com/dog-breeds/berger-picard,Herding Dogs,50,70,13,14,3,4,5,3,4,3,5,5,3,2,4,1,5,5,3,4,4,4,2,3,2,2,5,3,5,5,21,25
+Bedlington Terrier,https://dogtime.com/dog-breeds/bedlington-terrier,Terrier Dogs,17,23,14,16,4,4,3,3,4,3,5,4,4,5,5,1,1,4,3,3,3,5,4,5,3,4,4,2,4,5,15,16
+Collie,https://dogtime.com/dog-breeds/collie,Herding Dogs,50,70,10,14,3,4,5,2,4,3,5,5,4,4,5,1,2,3,3,3,4,4,3,4,4,1,3,2,3,4,22,26
+Irish Setter,https://dogtime.com/dog-breeds/irish-setter,Sporting Dogs,60,70,11,15,1,3,4,2,4,3,5,5,5,5,4,2,3,2,3,4,4,5,5,5,4,5,5,3,5,5,25,27
+Belgian Malinois,https://dogtime.com/dog-breeds/belgian-malinois,Herding Dogs,40,80,12,14,1,3,5,3,4,4,5,4,2,3,2,1,5,4,2,4,5,5,3,4,2,3,5,4,5,5,22,26
+Belgian Sheepdog,https://dogtime.com/dog-breeds/belgian-sheepdog,Herding Dogs,60,75,10,12,3,3,5,3,4,3,4,5,5,4,5,1,3,3,2,4,5,5,2,5,1,4,5,3,5,5,22,26
+Bearded Collie,https://dogtime.com/dog-breeds/bearded-collie,Herding Dogs,45,55,12,14,3,4,4,2,4,3,5,4,5,4,4,1,2,3,4,3,5,4,3,3,3,5,4,4,4,5,20,22
+Harrier,https://dogtime.com/dog-breeds/harrier,Hound Dogs,45,60,10,12,1,3,2,3,3,4,4,5,5,5,3,1,5,5,3,3,2,4,3,4,4,5,5,4,5,5,19,21
+Icelandic Sheepdog,https://dogtime.com/dog-breeds/icelandic-sheepdog,Herding Dogs,20,30,14,15,1,1,3,2,5,3,4,4,2,2,5,1,1,3,3,3,3,4,3,4,1,4,4,5,4,4,16,18
+American Eskimo Dog,https://dogtime.com/dog-breeds/american-eskimo-dog,Companion Dogs,30,,12,15,5,4,4,2,5,3,5,5,5,4,5,1,3,5,4,2,5,4,3,3,4,3,5,3,4,5,15,19
+Irish Wolfhound,https://dogtime.com/dog-breeds/irish-wolfhound,Hound Dogs,115,180,6,8,1,2,3,2,4,2,5,5,5,5,3,1,3,1,3,5,3,4,3,5,1,3,2,2,4,4,32,35
+Rottweiler,https://dogtime.com/dog-breeds/rottweiler,Working Dogs,85,130,8,11,2,1,4,1,2,3,5,4,2,4,4,4,5,2,5,3,4,5,3,4,4,2,4,4,4,5,22,27
+Redbone Coonhound,https://dogtime.com/dog-breeds/redbone-coonhound,Hound Dogs,45,70,10,12,4,2,5,2,3,2,5,5,4,3,2,4,5,3,3,3,3,4,4,4,4,5,4,4,5,5,21,27
+Saint Bernard,https://dogtime.com/dog-breeds/saint-bernard,Working Dogs,120,180,8,10,3,2,4,1,5,1,5,5,5,5,4,5,2,2,4,5,2,4,3,1,1,2,3,2,2,4,26,30
+Irish Water Spaniel,https://dogtime.com/dog-breeds/irish-water-spaniel,Sporting Dogs,45,65,10,12,3,2,4,3,4,4,5,5,4,5,1,2,3,2,3,3,5,4,3,5,4,3,5,3,5,4,21,24
+Ibizan Hound,https://dogtime.com/dog-breeds/ibizan-hound,Hound Dogs,45,50,10,14,5,3,4,2,1,4,5,5,5,4,3,1,5,4,1,3,3,4,3,5,2,5,5,3,5,5,22,27
+Schnoodle,https://dogtime.com/dog-breeds/schnoodle,Hybrid Dogs,20,75,10,15,3,5,4,2,2,4,4,5,3,3,2,1,4,3,4,4,4,5,3,3,2,3,4,3,4,4,15,26
+Scottish Deerhound,https://dogtime.com/dog-breeds/scottish-deerhound,Hound Dogs,75,110,8,11,1,1,3,2,4,4,5,4,2,5,5,1,2,3,4,5,2,3,4,5,1,4,5,5,5,5,28,32
+Siberian Husky,https://dogtime.com/dog-breeds/siberian-husky,Working Dogs,35,60,12,15,2,1,4,1,5,3,5,5,5,5,3,3,2,4,2,3,2,3,4,3,5,5,5,3,5,5,20,23
+Cockapoo,https://dogtime.com/dog-breeds/cockapoo,Hybrid Dogs,19,,12,15,4,5,4,3,4,4,5,4,5,4,1,1,3,2,3,2,4,4,2,3,2,3,3,3,3,5,,15
+Rhodesian Ridgeback,https://dogtime.com/dog-breeds/rhodesian-ridgeback,Hound Dogs,70,85,10,12,1,2,4,2,3,3,5,4,4,3,4,1,5,4,3,4,2,4,3,5,1,5,4,4,5,5,24,27
+Poodle,https://dogtime.com/dog-breeds/poodle,Companion Dogs,45,70,12,15,5,5,4,1,3,4,5,5,4,4,1,1,1,2,4,4,5,5,4,2,2,3,4,3,4,5,,22
+Great Dane,https://dogtime.com/dog-breeds/great-dane,Working Dogs,100,200,7,10,1,1,5,1,2,3,5,5,5,5,5,4,5,4,2,5,5,3,2,3,4,3,5,5,5,5,28,34
+Manchester Terrier,https://dogtime.com/dog-breeds/manchester-terrier,Terrier Dogs,12,22,14,16,5,3,3,3,1,3,4,3,3,3,3,1,5,2,4,2,2,4,2,4,4,4,4,4,4,4,15,16
+Great Pyrenees,https://dogtime.com/dog-breeds/great-pyrenees,Working Dogs,85,160,10,12,1,1,4,3,5,3,5,4,4,3,5,2,4,2,4,5,1,4,2,5,5,5,5,5,5,4,25,32
+Gordon Setter,https://dogtime.com/dog-breeds/gordon-setter,Sporting Dogs,45,80,10,12,2,3,4,1,4,3,5,3,2,3,5,3,2,4,3,3,5,5,3,4,5,4,5,2,5,5,23,27
+Pharaoh Hound,https://dogtime.com/dog-breeds/pharaoh-hound,Hound Dogs,45,55,11,14,4,4,5,2,1,5,5,5,5,4,2,1,4,5,3,3,3,4,4,5,4,4,2,3,4,4,21,25
+Mutt,https://dogtime.com/dog-breeds/mutt,Mixed Breed Dogs,,,8,15,3,3,3,3,3,3,4,3,3,3,3,3,3,4,3,3,4,4,3,3,3,3,3,3,3,3,,
+Norwegian Lundehund,https://dogtime.com/dog-breeds/norwegian-lundehund,Working Dogs,13,16,10,12,1,1,3,2,5,3,5,5,5,5,5,1,4,3,3,3,4,5,3,2,1,5,4,4,5,5,12,15
+Pembroke Welsh Corgi,https://dogtime.com/dog-breeds/pembroke-welsh-corgi,Herding Dogs,,30,12,14,4,4,4,3,4,3,5,4,3,5,5,1,4,3,4,2,5,5,2,3,2,2,4,3,4,4,10,12
+Maltese,https://dogtime.com/dog-breeds/maltese,Companion Dogs,,7,12,15,5,5,4,1,1,3,5,3,4,2,2,1,2,3,3,1,4,4,3,4,2,1,3,3,2,4,8,10
+Norwegian Buhund,https://dogtime.com/dog-breeds/norwegian-buhund,Herding Dogs,26,40,12,15,3,3,3,4,5,2,5,5,3,3,3,1,2,4,3,3,4,3,3,2,4,4,4,4,5,5,16,18
+Nova Scotia Duck Tolling Retriever,https://dogtime.com/dog-breeds/nova-scotia-duck-tolling-retriever,Sporting Dogs,35,50,10,14,5,3,3,2,4,4,5,5,4,4,3,1,5,4,4,3,4,5,4,5,4,3,5,3,5,5,17,21
+Italian Greyhound,https://dogtime.com/dog-breeds/italian-greyhound,Companion Dogs,6,15,14,15,5,5,5,1,1,3,5,5,4,4,2,1,5,3,2,2,3,3,4,5,3,3,4,2,4,4,13,15
+Mudi,https://dogtime.com/dog-breeds/mudi,Herding Dogs,18,29,12,14,2,4,4,2,3,3,4,2,2,2,3,1,4,4,2,2,5,4,3,4,4,4,4,2,4,4,14,20
+Labradoodle,https://dogtime.com/dog-breeds/labradoodle,Hybrid Dogs,50,65,12,14,3,4,3,4,5,4,5,4,5,5,3,1,4,4,3,4,4,4,1,2,2,3,5,4,5,5,21,24
+Japanese Chin,https://dogtime.com/dog-breeds/japanese-chin,Companion Dogs,4,9,10,14,5,4,3,1,3,2,3,3,3,4,3,1,3,3,3,1,3,3,4,3,3,1,2,1,2,4,8,11
+Leonberger,https://dogtime.com/dog-breeds/leonberger,Working Dogs,120,170,10,12,1,1,4,2,5,1,5,4,3,2,5,3,4,1,4,5,2,3,4,4,3,2,4,4,4,4,25,31
+Puli,https://dogtime.com/dog-breeds/puli,Herding Dogs,25,35,10,15,4,1,4,2,4,3,5,5,5,2,1,1,1,5,3,3,2,4,3,4,4,5,5,5,5,5,16,17
+Pointer,https://dogtime.com/dog-breeds/pointer,Sporting Dogs,45,75,12,15,1,1,3,1,2,4,5,5,5,5,3,1,5,3,3,3,5,5,5,5,3,5,5,5,5,5,23,28
+Dandie Dinmont Terrier,https://dogtime.com/dog-breeds/dandie-dinmont-terrier,Terrier Dogs,18,24,12,15,4,4,3,2,3,3,5,4,3,3,3,1,2,3,4,1,2,3,3,4,2,3,3,3,2,4,8,11
+Dalmatian,https://dogtime.com/dog-breeds/dalmatian,Companion Dogs,48,55,13,16,2,3,4,3,3,4,5,4,4,3,5,1,5,4,4,3,4,4,2,2,2,4,5,4,5,4,19,24
+Xoloitzcuintli,https://dogtime.com/dog-breeds/xoloitzuintli,Companion Dogs,10,50,14,20,5,1,5,1,3,3,5,3,2,1,5,1,5,5,3,3,3,5,3,5,5,5,3,3,3,3,18,23
+Yorkshire Terrier,https://dogtime.com/dog-breeds/yorkshire-terrier,Companion Dogs,4,6,12,15,5,4,5,2,2,2,4,2,3,2,2,1,1,4,2,1,3,3,2,2,3,3,5,4,4,5,8,9
+Yorkipoo,https://dogtime.com/dog-breeds/yorkipoo,Hybrid Dogs,3,14,10,15,5,5,4,3,2,3,5,4,3,2,1,1,4,3,2,1,4,4,3,3,5,2,5,3,3,4,7,15
+Wirehaired Pointing Griffon,https://dogtime.com/dog-breeds/wirehaired-pointing-griffon,Sporting Dogs,50,60,10,14,1,3,4,1,4,3,5,5,4,5,1,1,3,4,3,3,5,5,3,4,4,4,5,3,4,5,20,24
+Whippet,https://dogtime.com/dog-breeds/whippet,Hound Dogs,18,48,12,15,5,3,5,2,1,4,5,5,4,4,2,1,5,4,1,3,4,4,4,5,1,4,5,2,5,5,18,22
+West Highland White Terrier,https://dogtime.com/dog-breeds/west-highland-white-terrier,Terrier Dogs,13,22,12,16,4,4,4,2,4,3,5,4,5,3,4,1,3,3,4,2,4,4,2,4,4,3,4,4,4,4,10,11
+Old English Sheepdog,https://dogtime.com/dog-breeds/old-english-sheepdog,Herding Dogs,,,10,12,5,4,4,2,4,2,5,4,4,4,1,4,1,4,4,4,3,4,2,3,1,2,4,3,4,4,,21
+Pekingese,https://dogtime.com/dog-breeds/pekingese,Companion Dogs,7,14,12,15,5,4,2,3,4,1,5,2,2,2,4,1,1,2,3,1,3,4,3,5,4,3,2,1,2,3,6,9
+Petit Basset Griffon Vendeen,https://dogtime.com/dog-breeds/petit-basset-griffon-vendeen,Hound Dogs,30,40,14,,4,3,3,3,4,3,5,5,5,5,4,1,2,3,4,2,1,4,3,5,5,5,5,4,5,5,13,15
+Otterhound,https://dogtime.com/dog-breeds/otterhound,Hound Dogs,,,10,12,1,4,2,5,4,3,5,5,5,4,4,1,2,4,3,4,2,4,3,5,2,5,5,4,5,5,24,27
+Norwegian Elkhound,https://dogtime.com/dog-breeds/norwegian-elkhound,Hound Dogs,,,12,15,4,4,4,2,5,3,5,4,4,4,5,1,3,4,4,3,2,4,3,4,4,4,5,3,5,4,19,20
+Peekapoo,https://dogtime.com/dog-breeds/peekapoo,Hybrid Dogs,4,20,10,15,5,5,4,2,3,2,5,4,4,3,2,1,2,3,4,1,3,4,4,3,4,1,3,2,3,4,,11
+Lagotto Romagnolo,https://dogtime.com/dog-breeds/lagotto-romagnolo,Sporting Dogs,24,35,14,17,2,4,3,3,4,3,3,3,3,3,1,2,1,4,3,2,4,4,2,4,3,3,4,2,4,4,14,19
+Neapolitan Mastiff,https://dogtime.com/dog-breeds/neapolitan-mastiff,Working Dogs,120,200,8,10,2,1,4,1,1,2,5,4,2,1,3,5,3,2,5,5,3,3,2,1,1,1,3,1,3,4,24,31
+Vizsla,https://dogtime.com/dog-breeds/vizsla,Sporting Dogs,45,65,10,14,1,3,5,1,1,4,5,5,5,5,2,1,5,4,2,3,5,4,4,2,5,5,5,4,5,5,21,24
+Treeing Walker Coonhound,https://dogtime.com/dog-breeds/treeing-walker-coonhound,Hound Dogs,45,80,12,13,1,2,5,2,3,3,4,4,3,3,3,2,5,4,3,4,2,4,3,4,5,5,4,4,5,3,20,27
+Toy Fox Terrier,https://dogtime.com/dog-breeds/toy-fox-terrier,Companion Dogs,3,7,13,14,5,3,4,1,2,3,5,4,3,3,4,1,5,5,2,1,3,4,2,5,4,4,5,4,5,5,8,11
+Treeing Tennessee Brindle,https://dogtime.com/dog-breeds/treeing-tennessee-brindle,Hound Dogs,30,45,10,12,1,2,3,2,3,3,4,4,4,3,4,3,5,4,3,3,3,4,3,4,1,1,4,4,5,3,16,24
+Tibetan Terrier,https://dogtime.com/dog-breeds/tibetan-terrier,Companion Dogs,20,24,12,15,5,3,4,1,4,4,5,5,4,3,1,1,1,5,3,2,4,4,2,2,2,3,5,4,5,5,14,16
+Welsh Springer Spaniel,https://dogtime.com/dog-breeds/welsh-springer-spaniel,Sporting Dogs,35,55,10,15,4,4,5,1,4,4,5,5,4,3,3,1,4,4,4,3,5,5,3,3,5,5,5,4,5,4,17,19
+Weimaraner,https://dogtime.com/dog-breeds/weimaraner,Sporting Dogs,55,85,11,13,1,2,5,1,3,4,5,4,3,3,4,4,5,3,2,4,4,5,5,5,2,5,5,5,5,5,23,27
+Tibetan Spaniel,https://dogtime.com/dog-breeds/tibetan-spaniel,Companion Dogs,9,15,12,15,5,4,5,1,1,2,5,5,4,3,3,1,4,5,3,1,4,4,3,3,4,3,3,3,4,4,,10
+Pug,https://dogtime.com/dog-breeds/pug,Companion Dogs,14,18,12,15,5,5,3,1,2,1,5,4,4,4,5,1,5,1,5,2,3,2,2,3,2,2,3,4,3,5,10,14
+Portuguese Water Dog,https://dogtime.com/dog-breeds/portuguese-water-dog,Working Dogs,35,60,10,14,4,3,4,2,4,3,5,5,5,3,1,1,2,4,3,3,4,5,5,3,3,3,5,3,5,5,17,23
+Lancashire Heeler,https://dogtime.com/dog-breeds/lancashire-heeler,Herding Dogs,13,15,9,14,2,2,3,3,3,3,4,3,3,2,3,1,4,4,4,1,3,4,2,2,2,4,4,4,3,4,10,12
+Papillon,https://dogtime.com/dog-breeds/papillon,Companion Dogs,4,9,12,16,5,5,3,1,2,4,5,3,4,5,2,1,3,3,3,1,5,4,3,4,2,1,4,3,5,5,8,11
+Miniature Schnauzer,https://dogtime.com/dog-breeds/miniature-schnauzer,Terrier Dogs,11,20,12,14,4,3,4,5,4,4,5,3,3,3,2,1,2,3,4,2,5,4,2,4,3,3,5,3,5,4,12,14
+Polish Lowland Sheepdog,https://dogtime.com/dog-breeds/polish-lowland-sheepdog,Herding Dogs,35,55,10,12,4,2,4,3,4,4,5,4,3,3,1,1,1,4,3,3,4,4,3,3,2,3,4,3,4,4,17,20
+Lowchen,https://dogtime.com/dog-breeds/lowchen,Companion Dogs,9,18,13,15,5,4,3,1,3,3,5,5,4,4,3,1,3,5,3,1,5,4,3,4,4,5,4,3,4,5,12,14
+Lakeland Terrier,https://dogtime.com/dog-breeds/lakeland-terrier,Terrier Dogs,15,17,12,15,4,3,3,2,4,4,5,4,3,3,2,1,2,5,3,2,2,4,1,4,2,3,5,4,4,4,13,14
+Lhasa Apso,https://dogtime.com/dog-breeds/lhasa-apso,Companion Dogs,12,15,12,15,5,5,5,4,3,2,4,4,3,2,3,1,1,3,3,1,3,4,3,4,4,2,4,3,3,5,9,11
+Maltese Shih Tzu,https://dogtime.com/dog-breeds/maltese-shih-tzu,Hybrid Dogs,6,12,12,14,5,5,3,3,2,2,4,3,3,3,1,1,2,2,3,1,4,3,4,5,4,1,3,2,3,3,,10
+Miniature Pinscher,https://dogtime.com/dog-breeds/miniature-pinscher,Companion Dogs,8,11,10,14,5,3,5,2,1,3,5,3,2,3,2,1,5,3,5,1,3,3,2,3,1,5,4,3,4,5,10,12
+Maltipoo,https://dogtime.com/dog-breeds/maltipoo,Hybrid Dogs,5,20,10,13,5,5,5,1,2,3,5,4,4,4,1,1,3,2,2,2,5,4,3,2,5,4,3,3,2,4,8,14
+Newfoundland,https://dogtime.com/dog-breeds/newfoundland,Working Dogs,100,150,8,10,1,3,4,1,5,2,5,5,4,4,5,5,2,1,4,5,5,4,3,4,4,3,3,1,3,4,25,29
+Plott,https://dogtime.com/dog-breeds/plott,Hound Dogs,40,75,12,14,1,1,4,2,2,4,4,3,5,3,2,1,5,5,3,3,4,3,3,5,1,5,4,4,5,3,20,27
+Norwich Terrier,https://dogtime.com/dog-breeds/norwich-terrier,Terrier Dogs,,12,10,14,5,3,4,2,4,4,5,5,5,5,2,1,2,4,5,1,4,4,4,3,4,4,5,4,4,5,,10
+Norfolk Terrier,https://dogtime.com/dog-breeds/norfolk-terrier,Terrier Dogs,11,12,12,15,4,5,4,3,4,4,5,4,5,4,1,1,4,5,5,1,5,4,2,1,3,4,4,4,4,5,9,10
+Mastiff,https://dogtime.com/dog-breeds/mastiff,Working Dogs,130,220,6,10,2,1,3,3,4,1,5,5,2,2,3,5,3,3,4,5,3,2,4,2,2,1,3,3,4,4,27,32
+Welsh Terrier,https://dogtime.com/dog-breeds/welsh-terrier,Terrier Dogs,,20,10,14,3,3,3,2,2,2,4,5,5,4,2,1,2,5,3,2,3,5,2,5,4,4,5,5,5,5,14,15
+Komondor,https://dogtime.com/dog-breeds/komondor,Working Dogs,80,100,10,12,2,1,4,1,4,3,5,3,1,1,3,2,2,2,3,4,4,4,3,2,5,4,2,1,4,4,25,27
+Kuvasz,https://dogtime.com/dog-breeds/kuvasz,Working Dogs,70,115,10,12,1,1,5,1,5,2,5,1,2,1,4,3,4,4,4,5,2,4,1,1,3,3,4,4,5,4,26,30
+Karelian Bear Dog,https://dogtime.com/dog-breeds/karelian-bear-dog,Working Dogs,44,50,10,13,2,1,4,2,5,3,4,3,1,2,3,1,4,4,2,3,2,4,4,5,4,5,4,5,4,4,19,24
+Labrador Retriever,https://dogtime.com/dog-breeds/labrador-retriever,Sporting Dogs,55,80,10,12,1,3,5,2,3,3,5,5,5,5,5,3,5,3,5,4,5,5,5,2,4,3,5,5,5,5,21,24
+Keeshond,https://dogtime.com/dog-breeds/keeshond,Companion Dogs,35,45,12,15,4,4,5,1,5,3,5,5,4,4,5,1,3,3,4,3,4,4,3,3,4,2,4,3,3,5,16,19
+Japanese Spitz,https://dogtime.com/dog-breeds/japanese-spitz,Companion Dogs,11,20,10,16,4,4,3,2,4,3,4,5,4,2,3,1,4,3,2,2,4,4,2,2,4,2,3,2,3,4,10,16
+Kerry Blue Terrier,https://dogtime.com/dog-breeds/kerry-blue-terrier,Terrier Dogs,33,40,12,15,3,2,3,3,4,3,4,4,2,5,1,1,2,3,3,3,4,4,4,3,4,3,4,4,5,4,17,19
+Korean Jindo Dog,https://dogtime.com/dog-breeds/jindo,Sporting Dogs,35,60,12,15,3,2,3,2,5,2,5,3,3,4,5,1,1,4,2,3,2,5,2,5,,5,4,4,5,4,19,21
+Kooikerhondje,https://dogtime.com/dog-breeds/kooikerhondje,Sporting Dogs,20,25,12,14,4,3,4,2,4,3,3,2,2,2,3,1,2,5,3,3,1,4,3,3,3,3,4,5,5,4,14,16
