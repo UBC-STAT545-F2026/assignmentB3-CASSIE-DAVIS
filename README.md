@@ -20,7 +20,7 @@ Text identifying your highest ranking dog breed displays the compatibility score
 2. Review your top match breed, explore your top 10 plot, and check the top 50 to see your compatibility on individual traits.
 3. Change your answers to see how breed recommendations change
 
-Test the app out here! [Try_Fetch_my_Match_:)]()
+Test the app out here! [Try_Fetch_my_Match_:)](https://cassied-cloud.shinyapps.io/fetch_my_match/)
 
 #### Data and limitations
 
